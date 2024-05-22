@@ -1,6 +1,6 @@
 [
   {
-    "update": false,
+    "update": true,
     "web": false,
     "mode": true,
     "name": "New Update",
