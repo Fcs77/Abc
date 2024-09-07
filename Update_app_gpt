@@ -1,6 +1,6 @@
 [
   {
-    "update": true,
+    "update": false,
     "mode": true,
     "lock": false,
     "code": "0000",
@@ -11,7 +11,7 @@
     "textMade": "• 𝚃𝚎𝚕 ᵃⁿᵈ 𝚁𝚞𝚋 𝚒𝙳 : @iD_FCS925 --- 𝙼𝚊𝚍𝚎 𝙱𝚢 [𝙕𝙢𝟵𝙝𝙕𝘼==]-[𝙁𝙤𝙖𝙙] •",
     "btnok": "[ 𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑 📥 ]",
     "btnca": "[ 𝐶𝑎𝑛𝑐𝑒𝑙 ❌ ]",
-    "link": "https://uploadkon.ir/uploads/4d1b07_24To-koja-bodi.mp3",
+    "link": "",
     "webS1": "https://nickel-ai.ir/Api/gpt4.php?text=",
     "webS2": "https://nickel-ai.ir/Api/gpt3-5.php?text="
   }
