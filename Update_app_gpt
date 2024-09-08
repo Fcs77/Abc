@@ -1,7 +1,7 @@
 [
   {
-    "update": true,
-    "mode": true,
+    "update": false,
+    "mode": false,
     "lock": false,
     "code": "0000",
     "name": "𝐍𝐞𝐰 𝐔𝐩𝐝𝐚𝐭𝐞",
