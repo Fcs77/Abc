@@ -13,6 +13,8 @@
     "btnca": "[ 𝐶𝑎𝑛𝑐𝑒𝑙 ❌ ]",
     "link": "",
     "webS1": "https://nickel-ai.ir/Api/gpt4.php?text=",
-    "webS2": "https://nickel-ai.ir/Api/gpt3-5.php?text="
+    "webS2": "https://nickel-ai.ir/Api/gpt3-5.php?text=",
+    "gpt_name_webs1": "GPT 4 [32k]",
+    "gpt_name_webs2": "GPT 3-5 Turbo"
   }
 ]
