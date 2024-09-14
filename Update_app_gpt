@@ -15,6 +15,8 @@
     "webS1": "https://nickel-ai.ir/Api/gpt4.php?text=",
     "webS2": "https://nickel-ai.ir/Api/gpt3-5.php?text=",
     "gpt_name_webs1": "GPT 4 [32k]",
-    "gpt_name_webs2": "GPT 3-5 Turbo"
+    "gpt_name_webs2": "GPT 3-5 Turbo",
+    "notif_title": "GPT App New Version",
+    "notif_text": "آپدیت جدید برنامه موجود است لطفاً اقدام به دانلود کنید."
   }
 ]
